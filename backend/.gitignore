@@ -1,0 +1,26 @@
+# Virtual environment
+.venv/
+
+# Ignore ChromeDriver
+chromedriver.exe
+backend/scraper/chromedriver.exe
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Flask instance and local environment files
+instance/
+.env
+
+# Database
+*.sqlite3
+*.db
+
+# IDE or editor files (e.g., VSCode)
+.vscode/
+.idea/
+
+# Log files
+*.log

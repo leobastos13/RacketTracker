@@ -1,0 +1,8 @@
+Flask
+Flask-Cors
+Flask-SQLAlchemy
+requests
+selenium
+webdriver-manager
+python-dotenv
+apscheduler

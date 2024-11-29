@@ -1,0 +1,26 @@
+{
+    "listFirstItem": "English",
+    "listSecondItem": "Portuguese",
+    "firstHeading": "Where can I find the best price for a tennis racket?",
+    "secondHeading": "RacketTracker is the solution for you!",
+    "firstText": "This tracker shows you the price of tennis rackets in several online stores in order for you to find the best deal possible!",
+    "firstButton": "Learn more",
+    "secondButton": "Try it out!",
+    "navLink": "Find your tennis racket",
+    "serviceHeading": "What we offer",
+    "stepperTitle1": "First Step",
+    "stepperTitle2": "Second Step",
+    "stepperTitle3": "Third Step",
+    "stepperCardTitle1": "Search by brand",
+    "stepperCardTitle2": "Find the best offer",
+    "stepperCardTitle3": "Make your purchase",
+    "stepperDesc1": "Start by choosing one of the brands you are interested in to help filter the search.",
+    "stepperDesc2": "In the next step go by the list of rackets available for that brand and choose the one that you want.",
+    "stepperDesc3": "After selecting the racket you want you are immediately transported to the online store that posted that offer, where you can complete the purchase.",
+    "racketsTitle": "Search for your racket!",
+    "racketsDesc1": "Choose a brand in order to start looking for the perfect racket for you!",
+    "racketsDesc2": "Then search for the name of the racket to see the several options available to you!",
+    "selectPlaceholder": "Select a brand",
+    "inputPlaceholder1": "Search for"
+
+}

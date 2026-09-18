@@ -18,7 +18,7 @@ RacketTracker is a full-stack app for tracking tennis racket offers from multipl
 1. Create a virtual environment inside `backend`:
 
    ```bash
-   cd /home/runner/work/RacketTracker/RacketTracker/backend
+   cd backend
    python -m venv .venv
    ```
 
@@ -48,7 +48,7 @@ RacketTracker is a full-stack app for tracking tennis racket offers from multipl
 6. Start the Flask API:
 
    ```bash
-   cd /home/runner/work/RacketTracker/RacketTracker/backend/app
+   cd backend/app
    python app.py
    ```
 
@@ -59,7 +59,7 @@ The API runs on `http://127.0.0.1:5000` by default and creates the database tabl
 1. Install frontend dependencies:
 
    ```bash
-   cd /home/runner/work/RacketTracker/RacketTracker/frontend
+   cd frontend
    npm install
    ```
 
